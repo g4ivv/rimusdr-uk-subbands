@@ -31,286 +31,298 @@
   "license_classes": {
     "UK Full": {
       "2200M": [
-        {"start": 135700,  "end": 137800, "mode": "cw_nb" }
+        {"start": 135700, "end": 137800, "mode": "cw_nb" }
       ],
       "630M": [
-        {"start": 472000,  "end": 475000, "mode": "cw" },
-        {"start": 475000,  "end": 479000, "mode": "cw_nb" }
+        {"start": 472000, "end": 475000, "mode": "cw" },
+        {"start": 475000, "end": 479000, "mode": "cw_nb" }
       ],
       "160M": [
-        {"start": 1810000,  "end": 1838000, "mode": "cw" },
-        {"start": 1838000,  "end": 1840000, "mode": "nb" },
-        {"start": 1840000,  "end": 1843000, "mode": "all" },
-        {"start": 1843000,  "end": 2000000, "mode": "phone" }
+        {"start": 1810000, "end": 1838000, "mode": "cw" },
+        {"start": 1838000, "end": 1840000, "mode": "nb" },
+        {"start": 1840000, "end": 1843000, "mode": "all" },
+        {"start": 1843000, "end": 2000000, "mode": "phone" }
       ],
       "80M": [
-        {"start": 3500000,  "end": 3510000, "mode": "cw_dx" },
-        {"start": 3510000,  "end": 3560000, "mode": "cw" },
-        {"start": 3560000,  "end": 3760000, "mode": "cw_qrp" },
-        {"start": 3570000,  "end": 3580000, "mode": "nb" },
-        {"start": 3580000,  "end": 3590000, "mode": "nb" },
-        {"start": 3590000,  "end": 3600000, "mode": "nb_digital" },
-        {"start": 3600000,  "end": 3620000, "mode": "all" }
+        {"start": 3500000, "end": 3510000, "mode": "cw_dx" },
+        {"start": 3510000, "end": 3560000, "mode": "cw" },
+        {"start": 3560000, "end": 3570000, "mode": "cw_qrp" },
+        {"start": 3570000, "end": 3580000, "mode": "nb" },
+        {"start": 3580000, "end": 3590000, "mode": "nb" },
+        {"start": 3590000, "end": 3600000, "mode": "nb_digital" },
+        {"start": 3600000, "end": 3620000, "mode": "all" },
+        {"start": 3620000, "end": 3650000, "mode": "phone" },
+        {"start": 3650000, "end": 3700000, "mode": "all" },
+        {"start": 3700000, "end": 3775000, "mode": "phone" },
+        {"start": 3775000, "end": 3800000, "mode": "ssb_dx" }
       ],
       "60M": [
-        {"start": 5258500,  "end": 5264000, "mode": "cw_qrp" },
-        {"start": 5276000,  "end": 5284000, "mode": "phone" },
-        {"start": 5288500,  "end": 5292000, "mode": "beacon" },
-        {"start": 5298000,  "end": 5307000, "mode": "all" },
-        {"start": 5313000,  "end": 5323000, "mode": "all" },
-        {"start": 5333000,  "end": 5338000, "mode": "phone" },
-        {"start": 5354000,  "end": 5358000, "mode": "all" },
-        {"start": 5362000,  "end": 5374500, "mode": "all" },
-        {"start": 5378000,  "end": 5382000, "mode": "phone" },
-        {"start": 5395000,  "end": 5401500, "mode": "phone" },
-        {"start": 5403500,  "end": 5406500, "mode": "phone" }
+        {"start": 5258500, "end": 5264000, "mode": "cw_qrp" },
+        {"start": 5276000, "end": 5284000, "mode": "phone" },
+        {"start": 5288500, "end": 5292000, "mode": "beacon" },
+        {"start": 5298000, "end": 5307000, "mode": "all" },
+        {"start": 5313000, "end": 5323000, "mode": "all" },
+        {"start": 5333000, "end": 5338000, "mode": "phone" },
+        {"start": 5354000, "end": 5358000, "mode": "all" },
+        {"start": 5362000, "end": 5374500, "mode": "all" },
+        {"start": 5378000, "end": 5382000, "mode": "phone" },
+        {"start": 5395000, "end": 5401500, "mode": "phone" },
+        {"start": 5403500, "end": 5406500, "mode": "phone" }
       ],
       "40M": [
-        {"start": 7000000,  "end": 7040000, "mode": "cw" },
-        {"start": 7040000,  "end": 7047000, "mode": "nb" },
-        {"start": 7047000,  "end": 7050000, "mode": "nb_digital" },
-        {"start": 7050000,  "end": 7053000, "mode": "digital" },
-        {"start": 7053000,  "end": 7060000, "mode": "all" },
-        {"start": 7060000,  "end": 7200000, "mode": "all" }
+        {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7040000, "end": 7047000, "mode": "nb" },
+        {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
+        {"start": 7050000, "end": 7053000, "mode": "digital" },
+        {"start": 7053000, "end": 7060000, "mode": "all" },
+        {"start": 7060000, "end": 7200000, "mode": "all" }
       ],
       "30M": [
-        {"start": 10100000,  "end": 10130000, "mode": "cw" },
-        {"start": 10130000,  "end": 10150000, "mode": "nb_digital" }
+        {"start": 10100000, "end": 10130000, "mode": "cw" },
+        {"start": 10130000, "end": 10150000, "mode": "nb_digital" }
       ],
       "20M": [
-        {"start": 14000000,  "end": 14060000, "mode": "cw" },
-        {"start": 14060000,  "end": 14070000, "mode": "cw_qrp" },
-        {"start": 14070000,  "end": 14099000, "mode": "nb_digital" },
-        {"start": 14099000,  "end": 14101000, "mode": "beacon" },
-        {"start": 14101000,  "end": 14112000, "mode": "digital" },
-        {"start": 14112000,  "end": 14350000, "mode": "all" }
+        {"start": 14000000, "end": 14060000, "mode": "cw" },
+        {"start": 14060000, "end": 14070000, "mode": "cw_qrp" },
+        {"start": 14070000, "end": 14099000, "mode": "nb_digital" },
+        {"start": 14099000, "end": 14101000, "mode": "beacon" },
+        {"start": 14101000, "end": 14112000, "mode": "digital" },
+        {"start": 14112000, "end": 14350000, "mode": "all" }
       ],
       "17M": [
-        {"start": 18068000,  "end": 18095000, "mode": "cw" },
-        {"start": 18095000,  "end": 18109000, "mode": "nb_digital" },
-        {"start": 18109000,  "end": 18111000, "mode": "beacon" },
-        {"start": 18111000,  "end": 18120000, "mode": "digital" },
-        {"start": 18120000,  "end": 18168000, "mode": "all" }
+        {"start": 18068000, "end": 18095000, "mode": "cw" },
+        {"start": 18095000, "end": 18109000, "mode": "nb_digital" },
+        {"start": 18109000, "end": 18111000, "mode": "beacon" },
+        {"start": 18111000, "end": 18120000, "mode": "digital" },
+        {"start": 18120000, "end": 18168000, "mode": "all" }
       ],
       "15M": [
-        {"start": 21000000,  "end": 21070000, "mode": "cw" },
-        {"start": 21070000,  "end": 21110000, "mode": "nb_digital" },
-        {"start": 21110000,  "end": 21120000, "mode": "digital" },
-        {"start": 21120000,  "end": 21149000, "mode": "nb" },
-        {"start": 21149000,  "end": 21151000, "mode": "beacon" },
-        {"start": 21151000,  "end": 21450000, "mode": "all" }
+        {"start": 21000000, "end": 21070000, "mode": "cw" },
+        {"start": 21070000, "end": 21110000, "mode": "nb_digital" },
+        {"start": 21110000, "end": 21120000, "mode": "digital" },
+        {"start": 21120000, "end": 21149000, "mode": "nb" },
+        {"start": 21149000, "end": 21151000, "mode": "beacon" },
+        {"start": 21151000, "end": 21450000, "mode": "all" }
       ],
       "12M": [
-        {"start": 24890000,  "end": 24915000, "mode": "cw" },
-        {"start": 24915000,  "end": 24929000, "mode": "nb_digital" },
-        {"start": 24929000,  "end": 24931000, "mode": "beacon" },
-        {"start": 24931000,  "end": 24940000, "mode": "digital" },
-        {"start": 24940000,  "end": 24990000, "mode": "all" }
+        {"start": 24890000, "end": 24915000, "mode": "cw" },
+        {"start": 24915000, "end": 24929000, "mode": "nb_digital" },
+        {"start": 24929000, "end": 24931000, "mode": "beacon" },
+        {"start": 24931000, "end": 24940000, "mode": "digital" },
+        {"start": 24940000, "end": 24990000, "mode": "all" }
       ],
       "10M": [
-        {"start": 28000000,  "end": 28070000, "mode": "cw" },
-        {"start": 28070000,  "end": 28190000, "mode": "nb_digital" },
-        {"start": 28190000,  "end": 28225000, "mode": "beacon" },
-        {"start": 28225000,  "end": 28320000, "mode": "bcn_digital" },
-        {"start": 28320000,  "end": 29000000, "mode": "all" },
-        {"start": 29000000,  "end": 29100000, "mode": "all" },
-        {"start": 29100000,  "end": 29200000, "mode": "all_fm" },
-        {"start": 29200000,  "end": 29300000, "mode": "digital" },
-        {"start": 29300000,  "end": 29510000, "mode": "satellite" },
-        {"start": 29520000,  "end": 29590000, "mode": "repeater_input" },
-        {"start": 29600000,  "end": 29620000, "mode": "fm" },
-        {"start": 29620000,  "end": 29700000, "mode": "repeater_output" }
+        {"start": 28000000, "end": 28070000, "mode": "cw" },
+        {"start": 28070000, "end": 28190000, "mode": "nb_digital" },
+        {"start": 28190000, "end": 28225000, "mode": "beacon" },
+        {"start": 28225000, "end": 28320000, "mode": "bcn_digital" },
+        {"start": 28320000, "end": 29000000, "mode": "all" },
+        {"start": 29000000, "end": 29100000, "mode": "all" },
+        {"start": 29100000, "end": 29200000, "mode": "all_fm" },
+        {"start": 29200000, "end": 29300000, "mode": "digital" },
+        {"start": 29300000, "end": 29510000, "mode": "satellite" },
+        {"start": 29520000, "end": 29590000, "mode": "repeater_input" },
+        {"start": 29600000, "end": 29620000, "mode": "fm" },
+        {"start": 29620000, "end": 29700000, "mode": "repeater_output" }
       ],
       "6M": [
-        {"start": 50000000,  "end": 50030000, "mode": "cw_bcn" },
-        {"start": 50030000,  "end": 50100000, "mode": "cw" },
-        {"start": 50100000,  "end": 50200000, "mode": "ssb_dx" },
-        {"start": 50200000,  "end": 50300000, "mode": "phone" },
-        {"start": 50300000,  "end": 50400000, "mode": "nb_digital" },
-        {"start": 50400000,  "end": 50500000, "mode": "beacon" },
-        {"start": 50500000,  "end": 50700000, "mode": "all_fm" },
-        {"start": 50700000,  "end": 50900000, "mode": "repeater_output" },
-        {"start": 50900000,  "end": 51200000, "mode": "all" },
-        {"start": 51200000,  "end": 51400000, "mode": "repeater_input" },
-        {"start": 51400000,  "end": 52000000, "mode": "all" }
+        {"start": 50000000, "end": 50030000, "mode": "cw_bcn" },
+        {"start": 50030000, "end": 50100000, "mode": "cw" },
+        {"start": 50100000, "end": 50200000, "mode": "ssb_dx" },
+        {"start": 50200000, "end": 50300000, "mode": "phone" },
+        {"start": 50300000, "end": 50400000, "mode": "nb_digital" },
+        {"start": 50400000, "end": 50500000, "mode": "beacon" },
+        {"start": 50500000, "end": 50700000, "mode": "all_fm" },
+        {"start": 50700000, "end": 50900000, "mode": "repeater_output" },
+        {"start": 50900000, "end": 51200000, "mode": "all" },
+        {"start": 51200000, "end": 51400000, "mode": "repeater_input" },
+        {"start": 51400000, "end": 52000000, "mode": "all" }
       ]
     },
     "UK Intermediate": {
       "2200M": [
-        {"start": 135700,  "end": 137800, "mode": "cw_nb" }
+        {"start": 135700, "end": 137800, "mode": "cw_nb" }
       ],
       "160M": [
-        {"start": 1810000,  "end": 1838000, "mode": "cw" },
-        {"start": 1838000,  "end": 1840000, "mode": "nb" },
-        {"start": 1840000,  "end": 1843000, "mode": "all" },
-        {"start": 1843000,  "end": 2000000, "mode": "phone" }
+        {"start": 1810000, "end": 1838000, "mode": "cw" },
+        {"start": 1838000, "end": 1840000, "mode": "nb" },
+        {"start": 1840000, "end": 1843000, "mode": "all" },
+        {"start": 1843000, "end": 2000000, "mode": "phone" }
       ],
       "80M": [
-        {"start": 3500000,  "end": 3510000, "mode": "cw_dx" },
-        {"start": 3510000,  "end": 3560000, "mode": "cw" },
-        {"start": 3560000,  "end": 3760000, "mode": "cw_qrp" },
-        {"start": 3570000,  "end": 3580000, "mode": "nb" },
-        {"start": 3580000,  "end": 3590000, "mode": "nb" },
-        {"start": 3590000,  "end": 3600000, "mode": "nb_digital" },
-        {"start": 3600000,  "end": 3620000, "mode": "all" }
+        {"start": 3500000, "end": 3510000, "mode": "cw_dx" },
+        {"start": 3510000, "end": 3560000, "mode": "cw" },
+        {"start": 3560000, "end": 3570000, "mode": "cw_qrp" },
+        {"start": 3570000, "end": 3580000, "mode": "nb" },
+        {"start": 3580000, "end": 3590000, "mode": "nb" },
+        {"start": 3590000, "end": 3600000, "mode": "nb_digital" },
+        {"start": 3600000, "end": 3620000, "mode": "all" },
+        {"start": 3620000, "end": 3650000, "mode": "phone" },
+        {"start": 3650000, "end": 3700000, "mode": "all" },
+        {"start": 3700000, "end": 3775000, "mode": "phone" },
+        {"start": 3775000, "end": 3800000, "mode": "ssb_dx" }
       ],
       "40M": [
-        {"start": 7000000,  "end": 7040000, "mode": "cw" },
-        {"start": 7040000,  "end": 7047000, "mode": "nb" },
-        {"start": 7047000,  "end": 7050000, "mode": "nb_digital" },
-        {"start": 7050000,  "end": 7053000, "mode": "digital" },
-        {"start": 7053000,  "end": 7060000, "mode": "all" },
-        {"start": 7060000,  "end": 7200000, "mode": "all" }
+        {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7040000, "end": 7047000, "mode": "nb" },
+        {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
+        {"start": 7050000, "end": 7053000, "mode": "digital" },
+        {"start": 7053000, "end": 7060000, "mode": "all" },
+        {"start": 7060000, "end": 7200000, "mode": "all" }
       ],
       "30M": [
-        {"start": 10100000,  "end": 10130000, "mode": "cw" },
-        {"start": 10130000,  "end": 10150000, "mode": "nb_digital" }
+        {"start": 10100000, "end": 10130000, "mode": "cw" },
+        {"start": 10130000, "end": 10150000, "mode": "nb_digital" }
       ],
       "20M": [
-        {"start": 14000000,  "end": 14060000, "mode": "cw" },
-        {"start": 14060000,  "end": 14070000, "mode": "cw_qrp" },
-        {"start": 14070000,  "end": 14099000, "mode": "nb_digital" },
-        {"start": 14099000,  "end": 14101000, "mode": "beacon" },
-        {"start": 14101000,  "end": 14112000, "mode": "digital" },
-        {"start": 14112000,  "end": 14350000, "mode": "all" }
+        {"start": 14000000, "end": 14060000, "mode": "cw" },
+        {"start": 14060000, "end": 14070000, "mode": "cw_qrp" },
+        {"start": 14070000, "end": 14099000, "mode": "nb_digital" },
+        {"start": 14099000, "end": 14101000, "mode": "beacon" },
+        {"start": 14101000, "end": 14112000, "mode": "digital" },
+        {"start": 14112000, "end": 14350000, "mode": "all" }
       ],
       "17M": [
-        {"start": 18068000,  "end": 18095000, "mode": "cw" },
-        {"start": 18095000,  "end": 18109000, "mode": "nb_digital" },
-        {"start": 18109000,  "end": 18111000, "mode": "beacon" },
-        {"start": 18111000,  "end": 18120000, "mode": "digital" },
-        {"start": 18120000,  "end": 18168000, "mode": "all" }
+        {"start": 18068000, "end": 18095000, "mode": "cw" },
+        {"start": 18095000, "end": 18109000, "mode": "nb_digital" },
+        {"start": 18109000, "end": 18111000, "mode": "beacon" },
+        {"start": 18111000, "end": 18120000, "mode": "digital" },
+        {"start": 18120000, "end": 18168000, "mode": "all" }
       ],
       "15M": [
-        {"start": 21000000,  "end": 21070000, "mode": "cw" },
-        {"start": 21070000,  "end": 21110000, "mode": "nb_digital" },
-        {"start": 21110000,  "end": 21120000, "mode": "digital" },
-        {"start": 21120000,  "end": 21149000, "mode": "nb" },
-        {"start": 21149000,  "end": 21151000, "mode": "beacon" },
-        {"start": 21151000,  "end": 21450000, "mode": "all" }
+        {"start": 21000000, "end": 21070000, "mode": "cw" },
+        {"start": 21070000, "end": 21110000, "mode": "nb_digital" },
+        {"start": 21110000, "end": 21120000, "mode": "digital" },
+        {"start": 21120000, "end": 21149000, "mode": "nb" },
+        {"start": 21149000, "end": 21151000, "mode": "beacon" },
+        {"start": 21151000, "end": 21450000, "mode": "all" }
       ],
       "12M": [
-        {"start": 24890000,  "end": 24915000, "mode": "cw" },
-        {"start": 24915000,  "end": 24929000, "mode": "nb_digital" },
-        {"start": 24929000,  "end": 24931000, "mode": "beacon" },
-        {"start": 24931000,  "end": 24940000, "mode": "digital" },
-        {"start": 24940000,  "end": 24990000, "mode": "all" }
+        {"start": 24890000, "end": 24915000, "mode": "cw" },
+        {"start": 24915000, "end": 24929000, "mode": "nb_digital" },
+        {"start": 24929000, "end": 24931000, "mode": "beacon" },
+        {"start": 24931000, "end": 24940000, "mode": "digital" },
+        {"start": 24940000, "end": 24990000, "mode": "all" }
       ],
       "10M": [
-        {"start": 28000000,  "end": 28070000, "mode": "cw" },
-        {"start": 28070000,  "end": 28190000, "mode": "nb_digital" },
-        {"start": 28190000,  "end": 28225000, "mode": "beacon" },
-        {"start": 28225000,  "end": 28320000, "mode": "bcn_digital" },
-        {"start": 28320000,  "end": 29000000, "mode": "all" },
-        {"start": 29000000,  "end": 29100000, "mode": "all" },
-        {"start": 29100000,  "end": 29200000, "mode": "all_fm" },
-        {"start": 29200000,  "end": 29300000, "mode": "digital" },
-        {"start": 29300000,  "end": 29510000, "mode": "satellite" },
-        {"start": 29520000,  "end": 29590000, "mode": "repeater_input" },
-        {"start": 29600000,  "end": 29620000, "mode": "fm" },
-        {"start": 29620000,  "end": 29700000, "mode": "repeater_output" }
+        {"start": 28000000, "end": 28070000, "mode": "cw" },
+        {"start": 28070000, "end": 28190000, "mode": "nb_digital" },
+        {"start": 28190000, "end": 28225000, "mode": "beacon" },
+        {"start": 28225000, "end": 28320000, "mode": "bcn_digital" },
+        {"start": 28320000, "end": 29000000, "mode": "all" },
+        {"start": 29000000, "end": 29100000, "mode": "all" },
+        {"start": 29100000, "end": 29200000, "mode": "all_fm" },
+        {"start": 29200000, "end": 29300000, "mode": "digital" },
+        {"start": 29300000, "end": 29510000, "mode": "satellite" },
+        {"start": 29520000, "end": 29590000, "mode": "repeater_input" },
+        {"start": 29600000, "end": 29620000, "mode": "fm" },
+        {"start": 29620000, "end": 29700000, "mode": "repeater_output" }
       ],
       "6M": [
-        {"start": 50000000,  "end": 50030000, "mode": "cw_bcn" },
-        {"start": 50030000,  "end": 50100000, "mode": "cw" },
-        {"start": 50100000,  "end": 50200000, "mode": "ssb_dx" },
-        {"start": 50200000,  "end": 50300000, "mode": "phone" },
-        {"start": 50300000,  "end": 50400000, "mode": "nb_digital" },
-        {"start": 50400000,  "end": 50500000, "mode": "beacon" },
-        {"start": 50500000,  "end": 50700000, "mode": "all_fm" },
-        {"start": 50700000,  "end": 50900000, "mode": "repeater_output" },
-        {"start": 50900000,  "end": 51200000, "mode": "all" },
-        {"start": 51200000,  "end": 51400000, "mode": "repeater_input" },
-        {"start": 51400000,  "end": 52000000, "mode": "all" }
+        {"start": 50000000, "end": 50030000, "mode": "cw_bcn" },
+        {"start": 50030000, "end": 50100000, "mode": "cw" },
+        {"start": 50100000, "end": 50200000, "mode": "ssb_dx" },
+        {"start": 50200000, "end": 50300000, "mode": "phone" },
+        {"start": 50300000, "end": 50400000, "mode": "nb_digital" },
+        {"start": 50400000, "end": 50500000, "mode": "beacon" },
+        {"start": 50500000, "end": 50700000, "mode": "all_fm" },
+        {"start": 50700000, "end": 50900000, "mode": "repeater_output" },
+        {"start": 50900000, "end": 51200000, "mode": "all" },
+        {"start": 51200000, "end": 51400000, "mode": "repeater_input" },
+        {"start": 51400000, "end": 52000000, "mode": "all" }
       ]
     },
     "UK Foundation": {
       "2200M": [
-        {"start": 135700,  "end": 137800, "mode": "cw_nb" }
+        {"start": 135700, "end": 137800, "mode": "cw_nb" }
       ],
       "160M": [
-        {"start": 1810000,  "end": 1838000, "mode": "cw" },
-        {"start": 1838000,  "end": 1840000, "mode": "nb" },
-        {"start": 1840000,  "end": 1843000, "mode": "all" },
-        {"start": 1843000,  "end": 2000000, "mode": "phone" }
+        {"start": 1810000, "end": 1838000, "mode": "cw" },
+        {"start": 1838000, "end": 1840000, "mode": "nb" },
+        {"start": 1840000, "end": 1843000, "mode": "all" },
+        {"start": 1843000, "end": 2000000, "mode": "phone" }
       ],
       "80M": [
-        {"start": 3500000,  "end": 3510000, "mode": "cw_dx" },
-        {"start": 3510000,  "end": 3560000, "mode": "cw" },
-        {"start": 3560000,  "end": 3760000, "mode": "cw_qrp" },
-        {"start": 3570000,  "end": 3580000, "mode": "nb" },
-        {"start": 3580000,  "end": 3590000, "mode": "nb" },
-        {"start": 3590000,  "end": 3600000, "mode": "nb_digital" },
-        {"start": 3600000,  "end": 3620000, "mode": "all" }
+        {"start": 3500000, "end": 3510000, "mode": "cw_dx" },
+        {"start": 3510000, "end": 3560000, "mode": "cw" },
+        {"start": 3560000, "end": 3570000, "mode": "cw_qrp" },
+        {"start": 3570000, "end": 3580000, "mode": "nb" },
+        {"start": 3580000, "end": 3590000, "mode": "nb" },
+        {"start": 3590000, "end": 3600000, "mode": "nb_digital" },
+        {"start": 3600000, "end": 3620000, "mode": "all" },
+        {"start": 3620000, "end": 3650000, "mode": "phone" },
+        {"start": 3650000, "end": 3700000, "mode": "all" },
+        {"start": 3700000, "end": 3775000, "mode": "phone" },
+        {"start": 3775000, "end": 3800000, "mode": "ssb_dx" }
       ],
       "40M": [
-        {"start": 7000000,  "end": 7040000, "mode": "cw" },
-        {"start": 7040000,  "end": 7047000, "mode": "nb" },
-        {"start": 7047000,  "end": 7050000, "mode": "nb_digital" },
-        {"start": 7050000,  "end": 7053000, "mode": "digital" },
-        {"start": 7053000,  "end": 7060000, "mode": "all" },
-        {"start": 7060000,  "end": 7200000, "mode": "all" }
+        {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7040000, "end": 7047000, "mode": "nb" },
+        {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
+        {"start": 7050000, "end": 7053000, "mode": "digital" },
+        {"start": 7053000, "end": 7060000, "mode": "all" },
+        {"start": 7060000, "end": 7200000, "mode": "all" }
       ],
       "30M": [
-        {"start": 10100000,  "end": 10130000, "mode": "cw" },
-        {"start": 10130000,  "end": 10150000, "mode": "nb_digital" }
+        {"start": 10100000, "end": 10130000, "mode": "cw" },
+        {"start": 10130000, "end": 10150000, "mode": "nb_digital" }
       ],
       "20M": [
-        {"start": 14000000,  "end": 14060000, "mode": "cw" },
-        {"start": 14060000,  "end": 14070000, "mode": "cw_qrp" },
-        {"start": 14070000,  "end": 14099000, "mode": "nb_digital" },
-        {"start": 14099000,  "end": 14101000, "mode": "beacon" },
-        {"start": 14101000,  "end": 14112000, "mode": "digital" },
-        {"start": 14112000,  "end": 14350000, "mode": "all" }
+        {"start": 14000000, "end": 14060000, "mode": "cw" },
+        {"start": 14060000, "end": 14070000, "mode": "cw_qrp" },
+        {"start": 14070000, "end": 14099000, "mode": "nb_digital" },
+        {"start": 14099000, "end": 14101000, "mode": "beacon" },
+        {"start": 14101000, "end": 14112000, "mode": "digital" },
+        {"start": 14112000, "end": 14350000, "mode": "all" }
       ],
       "17M": [
-        {"start": 18068000,  "end": 18095000, "mode": "cw" },
-        {"start": 18095000,  "end": 18109000, "mode": "nb_digital" },
-        {"start": 18109000,  "end": 18111000, "mode": "beacon" },
-        {"start": 18111000,  "end": 18120000, "mode": "digital" },
-        {"start": 18120000,  "end": 18168000, "mode": "all" }
+        {"start": 18068000, "end": 18095000, "mode": "cw" },
+        {"start": 18095000, "end": 18109000, "mode": "nb_digital" },
+        {"start": 18109000, "end": 18111000, "mode": "beacon" },
+        {"start": 18111000, "end": 18120000, "mode": "digital" },
+        {"start": 18120000, "end": 18168000, "mode": "all" }
       ],
       "15M": [
-        {"start": 21000000,  "end": 21070000, "mode": "cw" },
-        {"start": 21070000,  "end": 21110000, "mode": "nb_digital" },
-        {"start": 21110000,  "end": 21120000, "mode": "digital" },
-        {"start": 21120000,  "end": 21149000, "mode": "nb" },
-        {"start": 21149000,  "end": 21151000, "mode": "beacon" },
-        {"start": 21151000,  "end": 21450000, "mode": "all" }
+        {"start": 21000000, "end": 21070000, "mode": "cw" },
+        {"start": 21070000, "end": 21110000, "mode": "nb_digital" },
+        {"start": 21110000, "end": 21120000, "mode": "digital" },
+        {"start": 21120000, "end": 21149000, "mode": "nb" },
+        {"start": 21149000, "end": 21151000, "mode": "beacon" },
+        {"start": 21151000, "end": 21450000, "mode": "all" }
       ],
       "12M": [
-        {"start": 24890000,  "end": 24915000, "mode": "cw" },
-        {"start": 24915000,  "end": 24929000, "mode": "nb_digital" },
-        {"start": 24929000,  "end": 24931000, "mode": "beacon" },
-        {"start": 24931000,  "end": 24940000, "mode": "digital" },
-        {"start": 24940000,  "end": 24990000, "mode": "all" }
+        {"start": 24890000, "end": 24915000, "mode": "cw" },
+        {"start": 24915000, "end": 24929000, "mode": "nb_digital" },
+        {"start": 24929000, "end": 24931000, "mode": "beacon" },
+        {"start": 24931000, "end": 24940000, "mode": "digital" },
+        {"start": 24940000, "end": 24990000, "mode": "all" }
       ],
       "10M": [
-        {"start": 28000000,  "end": 28070000, "mode": "cw" },
-        {"start": 28070000,  "end": 28190000, "mode": "nb_digital" },
-        {"start": 28190000,  "end": 28225000, "mode": "beacon" },
-        {"start": 28225000,  "end": 28320000, "mode": "bcn_digital" },
-        {"start": 28320000,  "end": 29000000, "mode": "all" },
-        {"start": 29000000,  "end": 29100000, "mode": "all" },
-        {"start": 29100000,  "end": 29200000, "mode": "all_fm" },
-        {"start": 29200000,  "end": 29300000, "mode": "digital" },
-        {"start": 29300000,  "end": 29510000, "mode": "satellite" },
-        {"start": 29520000,  "end": 29590000, "mode": "repeater_input" },
-        {"start": 29600000,  "end": 29620000, "mode": "fm" },
-        {"start": 29620000,  "end": 29700000, "mode": "repeater_output" }
+        {"start": 28000000, "end": 28070000, "mode": "cw" },
+        {"start": 28070000, "end": 28190000, "mode": "nb_digital" },
+        {"start": 28190000, "end": 28225000, "mode": "beacon" },
+        {"start": 28225000, "end": 28320000, "mode": "bcn_digital" },
+        {"start": 28320000, "end": 29000000, "mode": "all" },
+        {"start": 29000000, "end": 29100000, "mode": "all" },
+        {"start": 29100000, "end": 29200000, "mode": "all_fm" },
+        {"start": 29200000, "end": 29300000, "mode": "digital" },
+        {"start": 29300000, "end": 29510000, "mode": "satellite" },
+        {"start": 29520000, "end": 29590000, "mode": "repeater_input" },
+        {"start": 29600000, "end": 29620000, "mode": "fm" },
+        {"start": 29620000, "end": 29700000, "mode": "repeater_output" }
       ],
       "6M": [
-        {"start": 50000000,  "end": 50030000, "mode": "cw_bcn" },
-        {"start": 50030000,  "end": 50100000, "mode": "cw" },
-        {"start": 50100000,  "end": 50200000, "mode": "ssb_dx" },
-        {"start": 50200000,  "end": 50300000, "mode": "phone" },
-        {"start": 50300000,  "end": 50400000, "mode": "nb_digital" },
-        {"start": 50400000,  "end": 50500000, "mode": "beacon" },
-        {"start": 50500000,  "end": 50700000, "mode": "all_fm" },
-        {"start": 50700000,  "end": 50900000, "mode": "repeater_output" },
-        {"start": 50900000,  "end": 51200000, "mode": "all" },
-        {"start": 51200000,  "end": 51400000, "mode": "repeater_input" },
-        {"start": 51400000,  "end": 52000000, "mode": "all" }
+        {"start": 50000000, "end": 50030000, "mode": "cw_bcn" },
+        {"start": 50030000, "end": 50100000, "mode": "cw" },
+        {"start": 50100000, "end": 50200000, "mode": "ssb_dx" },
+        {"start": 50200000, "end": 50300000, "mode": "phone" },
+        {"start": 50300000, "end": 50400000, "mode": "nb_digital" },
+        {"start": 50400000, "end": 50500000, "mode": "beacon" },
+        {"start": 50500000, "end": 50700000, "mode": "all_fm" },
+        {"start": 50700000, "end": 50900000, "mode": "repeater_output" },
+        {"start": 50900000, "end": 51200000, "mode": "all" },
+        {"start": 51200000, "end": 51400000, "mode": "repeater_input" },
+        {"start": 51400000, "end": 52000000, "mode": "all" }
       ]
     }
   }
