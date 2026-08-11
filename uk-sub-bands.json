@@ -71,6 +71,7 @@
       ],
       "40M": [
         {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7029000, "end": 7031000, "mode": "cw_qrp" },
         {"start": 7040000, "end": 7047000, "mode": "nb" },
         {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
         {"start": 7050000, "end": 7053000, "mode": "digital" },
@@ -164,6 +165,7 @@
       ],
       "40M": [
         {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7029000, "end": 7031000, "mode": "cw_qrp" },
         {"start": 7040000, "end": 7047000, "mode": "nb" },
         {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
         {"start": 7050000, "end": 7053000, "mode": "digital" },
@@ -257,6 +259,7 @@
       ],
       "40M": [
         {"start": 7000000, "end": 7040000, "mode": "cw" },
+        {"start": 7029000, "end": 7031000, "mode": "cw_qrp" },
         {"start": 7040000, "end": 7047000, "mode": "nb" },
         {"start": 7047000, "end": 7050000, "mode": "nb_digital" },
         {"start": 7050000, "end": 7053000, "mode": "digital" },
