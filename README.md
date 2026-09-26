@@ -4,8 +4,14 @@ This repository provides a UK sub-bands file for [RimuSDR](https://rimusystems.c
 
 It is based on information available on the [RSGB](https://rsgb.org) website's [bandplans page](https://rsgb.org/main/operating/band-plans/).
 
+It also provides sub-band files for the RSGB contests:
+
+* 80m CW and DATA
+* 80m SSB
+
+
 >[!warning]
-> any user of this file accepts that it is their responsibility to ensure that they transmit within the rules for their license class, this file is provided as a guide to the band allocations and is not authoritative.
+> any user of these files accepts that it is their responsibility to ensure that they transmit within the rules for their license class, this file is provided as a guide to the band allocations and is not authoritative.
 
 >[!warning]
 > The rules for 60M in the UK are more complicated than can be shown in the sub-band colours. Always consulate the RSGB [60M webpage](https://rsgb.org/main/operating/band-plans/hf/5mhz/) for full details.

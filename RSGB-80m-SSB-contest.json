@@ -1,0 +1,24 @@
+{
+  "data_version": 1,
+  "updated": "2026-09-26",
+  "mode_colors": {
+    "ssb": "#009E73"
+  },
+  "license_classes": {
+    "UK Full": {
+      "80M": [
+        {"start": 3600000, "end": 3775000, "mode": "ssb" }
+      ]
+    },
+    "UK Intermediate": {
+      "80M": [
+        {"start": 3600000, "end": 3775000, "mode": "ssb" }
+      ]
+    },
+    "UK Foundation": {
+      "80M": [
+        {"start": 3600000, "end": 3775000, "mode": "ssb" }
+      ]
+    }
+  }
+}

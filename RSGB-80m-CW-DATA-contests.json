@@ -1,0 +1,37 @@
+{
+  "data_version": 1,
+  "updated": "2026-09-26",
+  "mode_colors": {
+    "cw": "#0072B2",
+    "cw_qrs": "#02cce3",
+
+    "rtty": "#E69F00",
+    "psk63": "#009E73"
+  },
+  "license_classes": {
+    "UK Full": {
+      "80M": [
+        {"start": 3510000, "end": 3565000, "mode": "cw" },
+        {"start": 3565000, "end": 3570000, "mode": "cw_qrs" },
+        {"start": 3580000, "end": 3590000, "mode": "psk63" },
+        {"start": 3590000, "end": 3620000, "mode": "rtty" }
+      ]
+    },
+    "UK Intermediate": {
+      "80M": [
+        {"start": 3510000, "end": 3565000, "mode": "cw" },
+        {"start": 3565000, "end": 3570000, "mode": "cw_qrs" },
+        {"start": 3580000, "end": 3590000, "mode": "psk63" },
+        {"start": 3590000, "end": 3620000, "mode": "rtty" }
+      ]
+    },
+    "UK Foundation": {
+      "80M": [
+        {"start": 3510000, "end": 3565000, "mode": "cw" },
+        {"start": 3565000, "end": 3570000, "mode": "cw_qrs" },
+        {"start": 3580000, "end": 3590000, "mode": "psk63" },
+        {"start": 3590000, "end": 3620000, "mode": "rtty" }
+      ]
+    }
+  }
+}
